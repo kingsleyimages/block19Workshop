@@ -1,0 +1,21 @@
+body {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+  font-weight: 400;
+}
+table {
+  width: 50%;
+  margin: 0 auto;
+  border-collapse: collapse;
+}
+thead {
+  font-weight: 600;
+}
+tr {
+  border: 1px solid #000;
+}
+td {
+  padding: 5px;
+}
